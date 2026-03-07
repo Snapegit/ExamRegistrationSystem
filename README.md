@@ -61,7 +61,7 @@
 解压后，您将看到以下核心目录：
 
 ```
-📁 ExamRegistrationSystem/
+📁 *System/
 ├── JavaSpringBoot/       ← 后端源码（建议使用 IDEA 打开）
 ├── VueAdmin/             ← 管理员前端（建议使用 VS Code 打开）
 ├── VueUser/              ← 用户端前端（建议使用 VS Code 打开）

@@ -1,6 +1,4 @@
 
----
-
 ## 🌟 项目简介
 
 这是一个基于 **Java + SpringBoot + Vue + MySQL** 构建的完整考试报名系统，功能持续优化中...
@@ -181,4 +179,3 @@ npm config set registry https://registry.npmmirror.com
 
 </div>
 
----
